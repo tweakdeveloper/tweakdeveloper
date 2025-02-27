@@ -1,7 +1,10 @@
 # howdy y'all!
 
-- i'm currently working on [iOS](https://github.com/tweakdeveloper/mrkdown-iOS)
-  and [Android](https://github.com/tweakdeveloper/mrkdown-android) versions of an
-  app to create [Tumblr](https://tumblr.com) posts using Markdown, as well as an
-  associated [backend in TypeScript](https://github.com/tweakdeveloper/mrkdown-do-backend)!
-- some other small projects are in mind, so stay tuned for those!
+i'm nicola clark, a student studying computer information systems in johnson
+county, KS.
+
+due to GitHub's apparent unwillingness to tone down its push to get developers
+on board with Copilot (why did i have a Copilot bar appear on github.com without
+my input?), my projects will be relicensed under a weak copyleft license
+[MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) and moving to a self-hosted
+server. link to come.
